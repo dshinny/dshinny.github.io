@@ -13,7 +13,7 @@ const Projects = () => {
     {
       title: 'Tripify',
       description: 'Trip Planner Application with Itinerary and Google Maps',
-      img: './image/tripify.png',
+      img: './image/Tripify.png',
       gitURL: 'https://github.com/dshinny/Tripify',
       technologies: 'React, Google Maps API, Material UI, Styled-Components, Bcrypt'
     },
