@@ -12,7 +12,7 @@ const Header = () => {
                 <h1>Daniel Shin</h1>
                 <p>A Full-Stack Software Engineer</p>
                 <div className="header-buttons">
-                  <a href="#footer" className="btn btn-outline">
+                  <a href="#contact" className="btn btn-outline">
                     Let's Connect
                   </a>
                 </div>
