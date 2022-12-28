@@ -21,6 +21,10 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+img {
+  mix-blend-mode: multiply;
+}
+
 .container {
   width: 1200px;
   margin: 0 auto;
@@ -69,7 +73,6 @@ body {
 
 .navbar-left-logo img{
   width: 9rem;
-  mix-blend-mode: multiply;
 }
 
 .navbar-right {
@@ -114,10 +117,6 @@ header {
   font-size: 5.313rem;
   font-weight: 700;
   margin-bottom: 1.25rem;
-}
-
-img {
-  mix-blend-mode: multiply;
 }
 
 .header-section h2 {
