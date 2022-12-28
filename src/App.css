@@ -178,6 +178,10 @@ img {
   .header-image {
     display: none;
   }
+
+  .header-content {
+    justify-content: center;
+  }
 }
 
 /* About */
@@ -331,7 +335,7 @@ img {
 }
 
 .footer-link {
-  font-size: 3vw;
+  font-size: 2.8rem;
   color: #6083b3;
   margin: 2%;
 }
