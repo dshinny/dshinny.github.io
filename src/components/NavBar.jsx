@@ -13,7 +13,6 @@ const NavBar = () => {
   }, [])
   return (
     <nav className="navbar">
-      <div className="container">
         <div className="navbar-container">
           <ul className="navbar-left">
             <div className="navbar-left-logo">
@@ -31,7 +30,6 @@ const NavBar = () => {
           ) : (
             ""
           )}
-        </div>
       </div>
       <div className="toggle" onClick={() => setOpen(!open)}>
         <FaAlignJustify />
